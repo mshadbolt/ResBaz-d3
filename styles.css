@@ -1,0 +1,48 @@
+
+.title
+{
+    color: cornflowerblue;
+    font-family: arial;
+    font-size: 50px;
+    text-align: center;
+}
+
+.description
+{
+    color: darkgrey;
+    font-size: 15px;
+    font-family:  sans-serif;
+    border-left: 3px solid black;
+    width: 600px;
+    background-color: azure;
+    padding: 20px;
+}
+
+.chart
+{
+    width: 500px;
+    height: 500px;
+}
+
+.circ1
+{
+    stroke: cornflowerblue;
+    fill: coral;
+    stroke-width: 3;
+}
+
+.rect1
+{
+    fill:red;
+    stroke:black;
+    stroke-width:5;
+    opacity:0.5
+}
+
+.poly1
+{
+    fill:lime;
+    stroke:purple;
+    stroke-width:5;
+    fill-rule:nonzero;
+}
