@@ -20,8 +20,22 @@
 
 .chart
 {
-    width: 500px;
+    width: 1000px;
     height: 500px;
+}
+
+.greencirc
+{
+    stroke: darkgreen;
+    fill: green;
+    stroke-width: 3;
+}
+
+.redcirc
+{
+    stroke: darkred;
+    fill:red;
+    stroke-width:3;
 }
 
 .circ1
